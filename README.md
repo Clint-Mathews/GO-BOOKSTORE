@@ -1,6 +1,6 @@
 # GO-BOOKSTORE
 
-Go bookstore is a Go CRUD app using Postgres and gorilla mux.
+Go bookstore is a Go CRUD API service using Postgres and gorilla mux.
 
 ## TO RUN/BUILD APP
 
