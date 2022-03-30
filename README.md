@@ -3,15 +3,12 @@
 Go bookstore is a Go CRUD app using Postgres and gorilla mux.
 
 ## TO RUN/BUILD APP
- Navigate to cmd/main
- To Build the app: 
+
  ```sh
- go build
- ``` <br/>
- To run the application : 
-  ```sh
-go run main
- ``` <br/>
+ Navigate to cmd/main
+ To Build the app:  go build <br/>
+ To run the application : go run main <br/>
+ ```
  
 ## Technical Dependencies:
 
