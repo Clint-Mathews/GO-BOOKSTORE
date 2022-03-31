@@ -9,12 +9,6 @@ Go bookstore is a Go CRUD API service using Postgres and gorilla mux.
  To Build the app:  go build
  To run the application : go run main
  ```
-## To use the bot in Slack
-
-Type below message in chat, in same workspace <br/>
-@AgeBot my yob is "year"<br/>
-eg : @AgeBot my yob is 1997<br/>
-
 ## Technical Dependencies:
 
 * Using gorilla/mux for routes <br/>
